@@ -1,4 +1,5 @@
 **Implementation_of_Chatbot**
+
 **🤖 Appointment Scheduling Chatbot**
 This chatbot is designed to assist users in scheduling, rescheduling, and managing appointments efficiently. It utilizes Natural Language Processing (NLP) to understand user queries and respond accordingly. The chatbot is built using Logistic Regression for intent classification and Streamlit for an interactive web-based interface.
 
