@@ -3,6 +3,7 @@
 This chatbot is designed to assist users in scheduling, rescheduling, and managing appointments efficiently. It utilizes Natural Language Processing (NLP) to understand user queries and respond accordingly. The chatbot is built using Logistic Regression for intent classification and Streamlit for an interactive web-based interface.
 
 ##📌 Project Overview:
+
 The project consists of two main components:
 
 NLP and Machine Learning: The chatbot is trained using labeled intent data and Logistic Regression to classify user queries into predefined categories.
@@ -10,12 +11,14 @@ NLP and Machine Learning: The chatbot is trained using labeled intent data and L
 Streamlit Chatbot Interface: A user-friendly web interface built using Streamlit to allow users to interact with the chatbot, book appointments, and manage scheduling requests.
 
 📊 Dataset:
+
 The dataset used for this chatbot includes labeled appointment-related intents such as:
 
 Intent Categories: Booking, Rescheduling, Cancellation, Checking Availability, Setting Reminders, and more.
 Entities Extracted: Date, Time, Appointment Type, Location, and User Preferences.
 
 ##🖥️ Chatbot Features:
+
 📅 Book Appointments: Users can schedule appointments based on available slots.
 
 🔄 Reschedule or Cancel: Users can modify or cancel their bookings.
