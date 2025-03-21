@@ -1,8 +1,8 @@
-## Implementation_of_Chatbot
-##🤖 Appointment Scheduling Chatbot
+**Implementation_of_Chatbot**
+**🤖 Appointment Scheduling Chatbot**
 This chatbot is designed to assist users in scheduling, rescheduling, and managing appointments efficiently. It utilizes Natural Language Processing (NLP) to understand user queries and respond accordingly. The chatbot is built using Logistic Regression for intent classification and Streamlit for an interactive web-based interface.
 
-##📌 Project Overview:
+**📌 Project Overview:**
 
 The project consists of two main components:
 
@@ -10,14 +10,14 @@ NLP and Machine Learning: The chatbot is trained using labeled intent data and L
 
 Streamlit Chatbot Interface: A user-friendly web interface built using Streamlit to allow users to interact with the chatbot, book appointments, and manage scheduling requests.
 
-📊 Dataset:
+**📊 Dataset:**
 
 The dataset used for this chatbot includes labeled appointment-related intents such as:
 
 Intent Categories: Booking, Rescheduling, Cancellation, Checking Availability, Setting Reminders, and more.
 Entities Extracted: Date, Time, Appointment Type, Location, and User Preferences.
 
-##🖥️ Chatbot Features:
+**🖥️ Chatbot Features:**
 
 📅 Book Appointments: Users can schedule appointments based on available slots.
 
@@ -31,7 +31,7 @@ Entities Extracted: Date, Time, Appointment Type, Location, and User Preferences
 
 💬 Interactive Conversation: Uses NLP to understand natural language queries.
 
-🚀 Future Enhancements:
+**🚀 Future Enhancements:**
 
 Implementing advanced NLP techniques such as Transformer-based models (BERT, GPT).
 
@@ -42,5 +42,6 @@ Integration with external calendars (Google Calendar, Outlook).
 Expanding support for multiple languages.
 
 
-##🎯 Conclusion:
+**🎯 Conclusion:**
+
 This project demonstrates how AI-driven chatbots can simplify appointment scheduling by automating the booking process. It provides a seamless user experience, reduces manual effort, and enhances efficiency. Future improvements can make it even smarter and more adaptable to various use cases.
